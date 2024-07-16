@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on **K-WIN TECHNOLOGIES CO., LTD.**
 
+![Kaung Htat's GitHub stats](https://github-readme-stats.vercel.app/api?username=realkhatju&show_icons=true&theme=onedark)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/realkhatju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="realkhatju" height="30" width="40" /></a>
