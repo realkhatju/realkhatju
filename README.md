@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **K-WIN TECHNOLOGIES CO., LTD.**
 
-![Kaung Htat's GitHub stats](https://github-readme-stats.vercel.app/api?username=realkhatju&show_icons=true&theme=onedark)
+![Kaung Htat's GitHub stats](https://github-readme-stats.vercel.app/api?username=realkhatju&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
