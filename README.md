@@ -4,7 +4,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **K-WIN TECHNOLOGIES CO., LTD.**
+- 🛠️ I’m currently working at **Axle Tech Co., Ltd**  
+  🏢 Previously at **K-WIN TECHNOLOGIES CO., LTD.**
 
 ![Kaung Htat's GitHub stats](https://github-readme-stats.vercel.app/api?username=realkhatju&show_icons=true&theme=tokyonight)
 
